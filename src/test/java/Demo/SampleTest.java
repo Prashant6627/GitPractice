@@ -2,9 +2,9 @@ package Demo;
 
 import org.testng.annotations.Test;
 
-public class Sample {
+public class SampleTest {
 	@Test
-	public void sample() {
+	public void test() {
 		System.out.println("Sample");
 	}
 
